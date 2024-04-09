@@ -13,5 +13,7 @@
 			"path": "../Users/danim/OneDrive/Escritorio/Clont-tweet"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CarolinaMoran_ISC07A"
+	}
 }
